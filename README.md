@@ -54,7 +54,7 @@
   - AZ-900 (Fundamentals)
   - AI-900 (AI Fundamentals)
   - AZ-204 (Azure Developer)
-  - Azure Architect
-  - Azure Administrator
+  - Azure Architect (Almost)
+  
 - **Kubernetes Certified**
 - **Coursera Neural Networks (Andrew Ng)**
