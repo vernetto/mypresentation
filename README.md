@@ -93,5 +93,8 @@ gantt
 
 
 
-![Expertise Chart](expertise_chart.png)
+## Fields of Expertise
+
+![Fields of Expertise](expertise_chart.png)
+
 
