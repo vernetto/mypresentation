@@ -72,24 +72,26 @@ gantt
 ```
 
 
-```mermaid
-radar
-    title Fields of Expertise
-    axes
-        "Java" : 5
-        "Python" : 4
-        "Spring Boot" : 4
-        "React" : 3
-        "Kubernetes" : 4
-        "OpenShift" : 4
-        "Camunda Workflow" : 3
-        "JBoss" : 3
-        "WebLogic" : 4
-        "OSB" : 4
-```
+
+| Field                   | Expertise (1–10) |
+|-------------------------|------------------|
+| Java                    | 9                |
+| JavaEE                  | 7                |
+| Spring                  | 7                |
+| Python                  | 6                |
+| JS-React-Angular        | 4                |
+| DevOps / CI-CD          | 6                |
+| Kubernetes / Docker     | 7                |
+| Linux / Shell Scripting | 7                |
+| Azure Cloud             | 4                |
+| SQL / Databases         | 8                |
+| Git / Versioning        | 6                |
+| WebLogic-OSB            | 8                |
+| Security / Key Vault    | 5                |
+| Agile / Scrum           | 4                |
 
 
 
 
-
+![Expertise Chart](expertise_chart.png)
 
